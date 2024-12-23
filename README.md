@@ -1,4 +1,4 @@
-![logo](https://github.com/Krushnagame12/Krushnagame12/blob/main/python-programming-3840x2160-16102.jpg)
+![logo](https://github.com/Krushnagame12/Krushnagame12/blob/main/https://cdn-llelb.nitrocdn.com/UftRSQDyRkDCbWJQAdpKGlpgEtIfhLUm/assets/images/optimized/rev-9b7e781/aimarketingengineers.com/wp-content/uploads/2024/01/Python-for-Data-Analysis-Mastering-Data-Science-with-Python3.webp)
 <h1 align="center">Hi 👋, I'm Krushna Game</h1>
 <h3 align="center">Junior Data Analyst | Passionate about Data and Insights Welcome to my GitHub profile! I'm a Junior Data Analyst with expertise in data analysis, visualization, and database management. I enjoy uncovering actionable insights through data and building interactive dashboards.</h3>
 
