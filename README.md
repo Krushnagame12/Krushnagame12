@@ -1,4 +1,4 @@
-![logo](https://github.com/Krushnagame12/Krushnagame12/blob/main/WhatsApp%20Image%202024-12-23%20at%2015.08.22_9ccf1538.jpg)
+![logo](https://github.com/Krushnagame12/Krushnagame12/blob/main/python-programming-3840x2160-16102.jpg)
 <h1 align="center">Hi 👋, I'm Krushna Game</h1>
 <h3 align="center">Junior Data Analyst | Passionate about Data and Insights Welcome to my GitHub profile! I'm a Junior Data Analyst with expertise in data analysis, visualization, and database management. I enjoy uncovering actionable insights through data and building interactive dashboards.</h3>
 
