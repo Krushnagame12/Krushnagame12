@@ -6,10 +6,6 @@
 
 - 🔭 I’m currently working on [Cell-Phone-Price-Prediction-Model](https://github.com/Krushnagame12/Cell-Phone-Price-Prediction-Model.git)
 
-- 🌱 I’m currently learning **AWS PyTorch and TensorFlow**
-
-- 👯 I’m looking to collaborate on [Inventory_Management_Dashboard](https://github.com/Krushnagame12/Inventory_Management_Dashboard.git)
-
 - 🤝 I’m looking for help with [E-Commerce-Customer-Segmentation](https://github.com/Krushnagame12/E-Commerce-Customer-Segmentation.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Krushnagame12](https://github.com/Krushnagame12)
@@ -21,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/krushna-game-55229325b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krushna-game-55229325b" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/krushna_game?igsh=mwjsa242d2lwzme5ma==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/krushna_game?igsh=mwjsa242d2lwzme5ma==" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/krushna_game?igsh=mwjsa242d2lwzme5ma==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,6 +25,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krushnagame12&show_icons=true&locale=en&layout=compact" alt="krushnagame12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krushnagame12&show_icons=true&locale=en" alt="krushnagame12" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krushnagame12&" alt="krushnagame12" /></p>
