@@ -10,7 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Krushnagame12](https://github.com/Krushnagame12)
 
-- 💬 Ask me about **https://www.linkedin.com/in/krushna-game-55229325b**
 
 - 📫 How to reach me **krushnagame60@gmail.com**
 
