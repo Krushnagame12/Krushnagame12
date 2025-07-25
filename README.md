@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Krushna Game</h1>
 <h3 align="center">Junior Data Analyst | Passionate about Data and Insights Welcome to my GitHub profile! I'm a Junior Data Analyst with expertise in data analysis, visualization, and database management. I enjoy uncovering actionable insights through data and building interactive dashboards.</h3>
 
