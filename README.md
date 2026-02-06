@@ -55,12 +55,20 @@ I enjoy analyzing data, uncovering actionable insights, and building clear, inte
 ### 🛠️ Languages & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy&logoColor=cyan" />
   <img src="https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Plotly-000?style=for-the-badge&logo=plotly&logoColor=purple" />
+  <img src="https://img.shields.io/badge/SciPy-000?style=for-the-badge&logo=scipy&logoColor=blue" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-000?style=for-the-badge&logo=microsoft-excel&logoColor=green" />
+  <img src="https://img.shields.io/badge/Power%20BI-000?style=for-the-badge&logo=power-bi&logoColor=yellow" />
   <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=blue" />
   <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=lightblue" />
-  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=green" />
   <img src="https://img.shields.io/badge/Scikit--Learn-000?style=for-the-badge&logo=scikit-learn&logoColor=orange" />
-  <img src="https://img.shields.io/badge/Seaborn-000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow&logoColor=orange" />
 </p>
 
