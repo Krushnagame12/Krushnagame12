@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krushnagame12&label=Profile%20views&color=0e75b6&style=flat" alt="krushnagame12" /> </p>
 
-- 🔭 I’m currently working on [Cell-Phone-Price-Prediction-Model](https://github.com/Krushnagame12/Cell-Phone-Price-Prediction-Model.git)
+- 🔭 I’m currently working on [Cell-Phone-Price-Prediction-Model](https://github.com/Krushnagame12/-E-Commerce-Sales-Analysis.git)
 
 - 🤝 I’m looking for help with [E-Commerce-Customer-Segmentation](https://github.com/Krushnagame12/E-Commerce-Customer-Segmentation.git)
 
