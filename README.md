@@ -51,24 +51,23 @@ I enjoy analyzing data, uncovering actionable insights, and building clear, inte
 </p>
 
 ---
-
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy&logoColor=cyan" />
-  <img src="https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Plotly-000?style=for-the-badge&logo=plotly&logoColor=purple" />
-  <img src="https://img.shields.io/badge/SciPy-000?style=for-the-badge&logo=scipy&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Python-FFE873?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/NumPy-9FD3C7?style=for-the-badge&logo=numpy&logoColor=013243" />
+  <img src="https://img.shields.io/badge/Pandas-EAE6FF?style=for-the-badge&logo=pandas&logoColor=150458" />
+  <img src="https://img.shields.io/badge/Matplotlib-FADADD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-D6EAF8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Plotly-E8DAEF?style=for-the-badge&logo=plotly&logoColor=3F4F75" />
+  <img src="https://img.shields.io/badge/SciPy-E3F2FD?style=for-the-badge&logo=scipy&logoColor=00599C" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Excel-000?style=for-the-badge&logo=microsoft-excel&logoColor=green" />
-  <img src="https://img.shields.io/badge/Power%20BI-000?style=for-the-badge&logo=power-bi&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=blue" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=lightblue" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-000?style=for-the-badge&logo=scikit-learn&logoColor=orange" />
-  <img src="https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Excel-E9F7EF?style=for-the-badge&logo=microsoft-excel&logoColor=217346" />
+  <img src="https://img.shields.io/badge/Power%20BI-FFF9C4?style=for-the-badge&logo=power-bi&logoColor=F2C811" />
+  <img src="https://img.shields.io/badge/MySQL-E3F2FD?style=for-the-badge&logo=mysql&logoColor=00758F" />
+  <img src="https://img.shields.io/badge/PostgreSQL-E8F1FA?style=for-the-badge&logo=postgresql&logoColor=336791" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-FDEBD0?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/TensorFlow-FCE4EC?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
 </p>
 
