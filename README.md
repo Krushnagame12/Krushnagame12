@@ -36,10 +36,7 @@ I enjoy analyzing data, uncovering actionable insights, and building clear, inte
 - 👉 https://github.com/Krushnagame12
 
 ### 📫 Contact Me
-- **Email:** krushnagame60@gmail.com
-
----
-
+ **Email:** krushnagame60@gmail.com
 ### 🌐 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/krushna-game-55229325b" target="_blank">
@@ -49,8 +46,11 @@ I enjoy analyzing data, uncovering actionable insights, and building clear, inte
          width="40" />
   </a>
 </p>
+---
 
----### 🧠 Programming Languages & Databases
+
+
+### 🧠 Programming Languages & Databases
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFE873?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/MySQL-E3F2FD?style=for-the-badge&logo=mysql&logoColor=00758F" />
