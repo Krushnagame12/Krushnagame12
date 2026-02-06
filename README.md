@@ -1,10 +1,11 @@
 <!-- Banner -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:6a11cb,100:2575fc&height=250&section=header&text=Krushna%20Game&fontSize=48&fontColor=ffffff&animation=scaleIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1abc9c&height=230&section=header&text=Krushna%20Game&fontSize=44&fontColor=ffffff&animation=fadeIn"
     alt="Krushna Game Banner"
   />
 </p>
+
 
 
 
