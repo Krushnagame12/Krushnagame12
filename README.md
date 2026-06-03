@@ -41,15 +41,6 @@ I enjoy analyzing data, uncovering actionable insights, and building clear, inte
 
 ### 📫 Contact Me
  **Email:** krushnagame60@gmail.com
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/krushna-game-55229325b" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="LinkedIn"
-         height="30"
-         width="40" />
-  </a>
-</p>
 ----------------------------------------------------------------------------------------------------------------
 
 ### 🧠 Programming Languages & Databases
