@@ -56,7 +56,6 @@ I enjoy analyzing data, uncovering actionable insights, and building clear, inte
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFE873?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/MySQL-E3F2FD?style=for-the-badge&logo=mysql&logoColor=00758F" />
-  <img src="https://img.shields.io/badge/PostgreSQL-E8F1FA?style=for-the-badge&logo=postgresql&logoColor=336791" />
 </p>
 
 ### 📚 Python Libraries & Data Science Stack
@@ -67,7 +66,6 @@ I enjoy analyzing data, uncovering actionable insights, and building clear, inte
   <img src="https://img.shields.io/badge/Seaborn-D6EAF8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Plotly-E8DAEF?style=for-the-badge&logo=plotly&logoColor=3F4F75" />
   <img src="https://img.shields.io/badge/SciPy-E3F2FD?style=for-the-badge&logo=scipy&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-FDEBD0?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
   <img src="https://img.shields.io/badge/TensorFlow-FCE4EC?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
 </p>
 
